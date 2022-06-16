@@ -9,4 +9,10 @@ el curso de git y github
 - R
 - O
 - N
+<<<<<<< HEAD
 -Creado por...
+=======
+-Creado por...
+-Incluye ejemplos
+-Disponible para todas las edades
+>>>>>>> readme-mejorado
